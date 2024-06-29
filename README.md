@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m Zoë
-- 👀 I’m interested in software development & full-stack web-development
-- 🌱 I’m currently learning Python and Javascript
+- 👀 Interested in software development, aerospace engineering & full-stack web-development
+- 🌱 Currently learning Python and Javascript
 - 📫 How to reach me- thezoebryant@gmail.com
 
 <!---
