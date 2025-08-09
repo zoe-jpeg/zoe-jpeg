@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m Zoë
 - 👀 Interested in software development & aerospace engineering
-- 🌱 Currently working Python and learning Golang & Javascript
+- 🌱 Currently working in Python and getting more familiar with Swift & Java
 - 📫 How to reach me - zoemibryant@gmail.com
 
 <!---
